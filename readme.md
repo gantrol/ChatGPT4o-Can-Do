@@ -109,3 +109,9 @@ You can ask ChatGPT-4o to add some text to images, but it can't handle complex p
 ### Icon
 
 <!-- TODO -->
+
+## Reference
+
+- [Hello GPT-4o](https://openai.com/index/hello-gpt-4o/)
+- GPTs
+    - [中文介绍](https://www.aicando.xyz/chatgpt/gpts/)
