@@ -91,7 +91,7 @@ $$
 
 Example: 
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">chatgpt4o can make a five-part comic in one prompt <a href="https://chatgpt.com/g/g-WgHbLvJGL-comic-creator/">https://chatgpt.com/g/g-WgHbLvJGL-comic-creator/</a> <a href="https://t.co/5z6kFeZQX6">pic.twitter.com/5z6kFeZQX6</a></p>&mdash; Gantrol (@gantrols) <a href="https://twitter.com/gantrols/status/1791668200758989282?ref_src=twsrc%5Etfw">May 18, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">chatgpt4o can make a five-part comic in one prompt <a href="https://chatgpt.com/g/g-WgHbLvJGL-comic-creator/">https://chatgpt.com/g/g-WgHbLvJGL-comic-creator/</a> <a href="https://t.co/5z6kFeZQX6">pic.twitter.com/5z6kFeZQX6</a></p>&mdash; Gantrol (@gantrols) <a href="https://twitter.com/gantrols/status/1791668200758989282?ref_src=twsrc%5Etfw">May 18, 2024</a></blockquote>
 
 [text archive](./examples/Comic%20Example.md) 
 
