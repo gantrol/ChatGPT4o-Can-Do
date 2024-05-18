@@ -40,7 +40,9 @@ Observe that $\Pr[\text{Error2,q}] \leq \Pr\left[\left|Y_{q,m}\right| \notin \le
 
 Actually, it can transform the full PDF to Markdown, abd you can take a look at [the result](./examples/Distinct%20Elements%20in%20Streams:%20An%20Algorithm%20for%20the%20(Text)%20Book.md). ([The full chat history](https://chatgpt.com/share/54a5c725-2224-47db-a1d9-f0343aa65507))
 
-### Markdown Translate
+### Translate
+
+#### Markdown
 
 Base on the result of [PDF copy content to Markdown](#pdf-copy-content-to-markdown), ChatGPT4o gives the translation [流数据中的不同元素：适合教科书的算法](./examples/流数据中的不同元素：适合教科书的算法.md)
 
@@ -62,6 +64,48 @@ $$
 $$
 ```
 
+#### Styles
+
+<!-- maybe 机翻味？ -->
+
+[Chinese to English in Three Styles](https://chatgpt.com/g/g-6ecKahibH-chinese-to-english-in-three-styles)
+
+
+
 ## Code
 
 ### `Next.js` app route
+
+### Chrome Extension `manifest_version` 3
+
+## Data analyse
+
+<!--TODO:   -->
+
+
+## Images
+
+### Comic
+
+[Comic Creator](https://chatgpt.com/g/g-WgHbLvJGL-comic-creator)
+
+Example: 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">chatgpt4o can make a five-part comic in one prompt <a href="https://chatgpt.com/g/g-WgHbLvJGL-comic-creator/">https://chatgpt.com/g/g-WgHbLvJGL-comic-creator/</a> <a href="https://t.co/5z6kFeZQX6">pic.twitter.com/5z6kFeZQX6</a></p>&mdash; Gantrol (@gantrols) <a href="https://twitter.com/gantrols/status/1791668200758989282?ref_src=twsrc%5Etfw">May 18, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+[text archive](./examples/Comic%20Example.md) 
+
+### Text In Images
+
+
+You can ask ChatGPT-4o to add some text to images, but it can't handle complex paragraphs. If the text is too simple, it might add some lines or other words on its own.
+
+[Text Image Generator](https://chatgpt.com/g/g-De8U3kWW2-text-image-generator)
+
+![TypwritingGPT-4o2.png](./assets/TypwritingGPT-4o2.png)
+
+![A first person view of a robot typewriting the GPT-4o journal entries](./assets/TypwritingGPT-4o.png)
+
+### Icon
+
+<!-- TODO -->
